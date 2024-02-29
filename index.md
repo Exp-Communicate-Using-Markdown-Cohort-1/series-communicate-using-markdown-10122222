@@ -16,4 +16,4 @@ $ git commit -m "What is this about?"
 - [x] Step 2
 - [x] Step 3
 - [x] Step 4
-- [x] Step 5
+- [ ] Step 5
